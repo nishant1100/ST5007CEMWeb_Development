@@ -1,0 +1,127 @@
+{"properties": [
+  {
+    "name": "user-image-path",
+    "type": "java.lang.String",
+    "description": "A description for 'user-image-path'"
+  },
+  {
+    "name": "category-image-path",
+    "type": "java.lang.String",
+    "description": "A description for 'category-image-path'"
+  },
+  {
+    "name": "product-image-path",
+    "type": "java.lang.String",
+    "description": "A description for 'product-image-path'"
+  },
+  {
+    "name": "role.admin.id",
+    "type": "java.lang.String",
+    "description": "A description for 'role.admin.id'"
+  },
+  {
+    "name": "role.normal.id",
+    "type": "java.lang.String",
+    "description": "A description for 'role.normal.id'"
+  },
+  {
+    "name": "googleClientId",
+    "type": "java.lang.String",
+    "description": "A description for 'googleClientId'"
+  },
+  {
+    "name": "googleSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'googleSecret'"
+  },
+  {
+    "name": "newPassword",
+    "type": "java.lang.String",
+    "description": "A description for 'newPassword'"
+  },
+  {
+    "name": "application.security.jwt.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.secret-key'"
+  },
+  {
+    "name": "application.security.jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.expiration'"
+  },
+  {
+    "name": "application.security.jwt.refresh-token.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.refresh-token.expiration'"
+  },
+  {
+    "name": "aws.access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.access-key'"
+  },
+  {
+    "name": "aws.access-key-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.access-key-secret'"
+  },
+  {
+    "name": "aws.bucket-name",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.bucket-name'"
+  },
+  {
+    "name": "aws.region",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.region'"
+  },
+  {
+    "name": "aws.s3.access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.access-key'"
+  },
+  {
+    "name": "aws.s3.secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.secretKey'"
+  },
+  {
+    "name": "aws.s3.bucketName",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucketName'"
+  },
+  {
+    "name": "aws.s3.region",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.region'"
+  },
+  {
+    "name": "aws.s3.user-image-path",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.user-image-path'"
+  },
+  {
+    "name": "aws.s3.products-image-path",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.products-image-path'"
+  },
+  {
+    "name": "aws.s3.categories-image-path",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.categories-image-path'"
+  },
+  {
+    "name": "client.url",
+    "type": "java.lang.String",
+    "description": "A description for 'client.url'"
+  },
+  {
+    "name": "frontend.url",
+    "type": "java.lang.String",
+    "description": "A description for 'frontend.url'"
+  },
+  {
+    "name": "frontend-url",
+    "type": "java.lang.String",
+    "description": "A description for 'frontend-url'"
+  }
+]}
