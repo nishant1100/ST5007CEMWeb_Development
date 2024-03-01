@@ -1,0 +1,97 @@
+:root {
+  --primary-color: #3949ab;
+  --primary-color-hover: #303d8c;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  margin-top: auto;
+}
+
+.bg-navbar {
+  background-color: var(--primary-color) !important;
+}
+.btn-outline-primary {
+  --bs-btn-color: var(--primary-color) !important;
+  --bs-btn-border-color: var(--primary-color) !important;
+  --bs-btn-hover-bg: var(--primary-color) !important;
+  --bs-btn-hover-border-color: var(--primary-color) !important;
+  --bs-btn-active-bg: var(--primary-color) !important;
+  --bs-btn-active-border-color: var(--primary-color) !important;
+  --bs-btn-disabled-color: var(--primary-color) !important;
+  --bs-btn-disabled-border-color: var(--primary-color) !important;
+}
+
+.btn-primary {
+  --bs-btn-bg: var(--primary-color) !important;
+  --bs-btn-border-color: var(--primary-color) !important;
+  --bs-btn-hover-bg: var(--primary-color-hover) !important;
+  --bs-btn-hover-border-color: var(--primary-color-hover) !important;
+}
+
+.sidebar-item {
+  background: transparent !important;
+  color: white !important;
+  border-color: white !important;
+  border-radius: 0 !important;
+  border-left: 0 !important;
+  border-right: 0 !important;
+}
+.sidebar-item:hover {
+  background-color: var(--primary-color-hover) !important;
+}
+
+.btn-close {
+  opacity: 1 !important;
+  filter: invert() !important;
+}
+
+.list-group-item.active {
+  background: white !important;
+  color: black !important;
+}
+
+.input-group-text {
+  background: none !important;
+  border-radius: 0 7px 7px 0 !important;
+}
+
+.bg-success-table {
+  color: #c8ded4 !important;
+}
+.bg-warning-table {
+  color: #e9dfbe;
+}
+.bg-danger-table {
+  color: #e9cbcd;
+}
+.bg-secondary-table {
+  color: #d6d8db;
+}
+
+.page-item.active .page-link {
+  background-color: var(--primary-color) !important;
+}
+
+.product-title:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.text-primary {
+  color: var(--primary-color) !important;
+}
+
+.cart-badge {
+  position: relative;
+  top: -10px;
+  left: -5px;
+  border-radius: 50% !important;
+  font-size: 0.6rem !important;
+  padding: 4px 6px !important;
+}
